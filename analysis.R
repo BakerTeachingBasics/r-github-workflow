@@ -18,3 +18,5 @@ cat("Average HP:", avg_hp, "\n")
 
 # TODO:
 # Add one new calculation below
+cat("Median MPG:", Median(data$mpg))
+cat("Median HP:", Median(data$HP))
